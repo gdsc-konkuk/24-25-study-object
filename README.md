@@ -1,9 +1,9 @@
 # 24-25-study-object
 
-### members' repository
+### Members' Repository
 | 이름           | 링크                                                       |
 | -------------- | ---------------------------------------------------------- |
-| :crown: 박범식 | https://github.com/SIKU-KR/Object-YHCho-Study              |
+| :star: 박범식 | https://github.com/SIKU-KR/Object-YHCho-Study              |
 | 김민석         | https://github.com/minseok1015/object-study                |
 | 김영록         | https://github.com/kimyeoungrok/object-practice            |
 | 문다훈         | -                                                          |
@@ -15,8 +15,8 @@
 
 | 챕터 | 날짜       | 챕터 이름                | 발표 & 정리    |
 | ---- | ---------- | ------------------------ | -------------- |
-| 1    | 2025-03-26 | 객체, 설계               | 박범식         |
-| 2    | 2025-03-26 | 객체지향 프로그래밍      | 박범식         |
+| 1    | 2025-03-26 | [객체, 설계](https://github.com/gdsc-konkuk/24-25-study-object/blob/main/chapter-01.md)               | 박범식         |
+| 2    | 2025-03-26 | [객체지향 프로그래밍](https://github.com/gdsc-konkuk/24-25-study-object/blob/main/chapter-02.md)      | 박범식         |
 | 3    | 2025-04-08 | 역할, 책임, 협력         | 김영록, 황차빈 |
 | 4    | 2025-04-08 | 설계 품질과 트레이드오프 | 박성근, 문다훈 |
 | 5    | 2025-04-08 | 책임 할당하기            | 김민석, 송현우 |
